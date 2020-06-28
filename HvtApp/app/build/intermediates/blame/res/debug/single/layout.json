@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_event_detail.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\activity_event_detail.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_taluk_item.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\layout_taluk_item.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_explore_video.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\fragment_explore_video.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_place_list.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\fragment_place_list.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_place_image_gallery.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\fragment_place_image_gallery.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_taluk_about.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\fragment_taluk_about.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_play_video.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\fragment_play_video.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_videos_explore.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\activity_videos_explore.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_taluk_list.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\fragment_taluk_list.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_image_gallery_item.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\layout_image_gallery_item.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_taluk_places.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\fragment_taluk_places.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_image_slider_item.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\layout_image_slider_item.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_image_view.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\activity_image_view.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_video_list_item.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\layout_video_list_item.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_event_item.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\layout_event_item.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_home.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\content_home.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_map_single.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\activity_map_single.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_taluk.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\activity_taluk.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_home_event_item.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\layout_home_event_item.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_place_detail.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\fragment_place_detail.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_theme_list_item.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\layout_theme_list_item.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_home_taluk_item.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\layout_home_taluk_item.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_taluk_image_gallery.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\fragment_taluk_image_gallery.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_place_videos.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\fragment_place_videos.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_about.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\test.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_toolbar_home.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\layout_toolbar_home.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_map.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\layout_map.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_taluk_event.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\fragment_taluk_event.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_taluk_videos.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\fragment_taluk_videos.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_home_place_item.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\layout_home_place_item.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\about_bottom_sheet.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\about_bottom_sheet.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_place_item.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\layout_place_item.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_taluk_detail.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\fragment_taluk_detail.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_fullscreen_image.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\layout_fullscreen_image.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_toolbar.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\layout_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home_content.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\fragment_home_content.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_place.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\activity_place.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_setting.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_place_event.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\fragment_place_event.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_place_about.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\fragment_place_about.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_error.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\layout_error.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_home_image_gallery_item.xml",
+        "source": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\src\\main\\res\\layout\\layout_home_image_gallery_item.xml"
+    }
+]

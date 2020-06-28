@@ -1,0 +1,85 @@
+//Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+//Define versions in a single place
+ext {
+    //Sdk and tools
+    minSdkVersion           = 21
+    targetSdkVersion        = 28
+    compileSdkVersion       = 28
+    buildToolsVersion       = '28.0.3'
+    constraintLayoutVersion = '1.1.3'
+    recyclerViewVersion     = '1.1.0'
+    cardViewVersion         = '1.0.0'
+
+    //Google Play Services and FireBase
+    playServiceLocationVersion = '17.0.0'
+    playServiceMapsVersion     = '17.0.0'
+    playServicesAdsVersion     = '19.0.1'
+    multidexVersion            = '2.0.1'
+    firebaseCoreVersion        = '17.3.0'
+    firebaseMessagingVersion   = '20.1.5'
+    firebaseAnalyticsVersion   = '17.3.0'
+    firebaseCrashlyticsVersion = '17.0.0-beta03'
+
+    //App dependencies
+    supportLibraryVersion          = '1.0.2'
+    materialVersion                = '1.1.0'
+    vectorDrawableVersion          = '1.0.1'
+    animatedVectorDrawableVersion  = '1.0.0'
+    gsonVersion                    = '2.8.2'
+    calligraphyVersion             = '2.2.0'
+    glideVersion                   = '3.7.0'
+    roomDatabaseVersion            = '2.2.5'
+    rx2FastAndroidNetworking       = '1.0.1'
+
+    dagger2Version         = '2.16'
+    rxjava2Version         = '2.1.9'
+    rxandroidVersion       = '2.1.0'
+    placeholderviewVersion = '0.6.1'
+    debugDBVersion         = '1.0.6'
+    timberVersion          = '4.7.1'
+    lifecycleVersion       = '2.2.0'
+
+    //Test dependencies
+    junitVersion             = '4.12'
+    espressoVersion          = '3.1.0'
+    mockitoVersion           = '2.15.0'
+    JUnit4ClassRunnerVersion = '1.1.1'
+
+    //YouTube Player For RecyclerView
+    androidYouTubePlayerVersion = '10.0.5'
+
+    //Swipe Refresh Layout
+    swiperefreshlayoutVersion = '1.0.0'
+
+    //Auto images Slider
+    autoimageSliderVersion = '1.3.5'
+}
+
+buildscript {
+    repositories {
+        google()
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.5.3'
+        
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+
+        classpath 'com.google.gms:google-services:4.3.3'
+        classpath 'com.google.firebase:firebase-crashlytics-gradle:2.0.0-beta03'
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        maven { url 'https://maven.google.com' }
+        jcenter()
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

@@ -1,0 +1,151 @@
+apply plugin: 'com.android.application'
+
+// Google Services Gradle plugin
+apply plugin: 'com.google.gms.google-services'
+// Apply the Crashlytics Gradle plugin
+apply plugin: 'com.google.firebase.crashlytics'
+
+android {
+    compileSdkVersion rootProject.ext.compileSdkVersion
+    buildToolsVersion rootProject.ext.buildToolsVersion
+
+    defaultConfig {
+        applicationId "application.haveri.tourism"
+        minSdkVersion rootProject.ext.minSdkVersion
+        targetSdkVersion rootProject.ext.targetSdkVersion
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        vectorDrawables.useSupportLibrary true
+        multiDexEnabled true
+    }
+
+    buildTypes {
+        debug {
+            //https://api.npoint.io/
+            buildConfigField("String", "BASE_URL", "\"http://haveri.svitisirsi.org/\"")
+            buildConfigField("String", "API_KEY", "\"9c990828-294997-40tY58-93b0-22042aJ6a53d\"")
+
+            applicationIdSuffix ".debug"
+
+            resValue "string", "app_name", "@string/app_name_dev"
+            resValue "string", "GOOGLE_MAP_API_KEY", "AIzaSyD6wkYAu1-Zu0NVOY9w8ZuE11MJqImdvtI"
+            resValue "string", "ADD_MOB_APP_ID", "ca-app-pub-3653483375521597~6339288583"
+            resValue "string", "ADD_MOB_UNIT_ID", "ca-app-pub-3940256099942544/6300978111" // Google Test Unit Id
+        }
+
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            //https://api.npoint.io/
+            buildConfigField("String", "BASE_URL", "\"http://haveri.svitisirsi.org/\"")
+            buildConfigField("String", "API_KEY", "\"9c990828-294997-40tY58-93b0-22042aJ6a53d\"")
+
+            resValue "string", "app_name", "@string/app_name_prod"
+            resValue "string", "GOOGLE_MAP_API_KEY", "AIzaSyD6wkYAu1-Zu0NVOY9w8ZuE11MJqImdvtI"
+            resValue "string", "ADD_MOB_APP_ID", "ca-app-pub-3653483375521597~6339288583"
+            resValue "string", "ADD_MOB_UNIT_ID", "ca-app-pub-3653483375521597/8374231467" // Google Live Unit Id
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_1_8
+        targetCompatibility = JavaVersion.VERSION_1_8
+    }
+
+    dataBinding {
+        enabled = true
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+
+    //Android support libraries
+    implementation "androidx.appcompat:appcompat:$rootProject.supportLibraryVersion"
+    implementation "androidx.recyclerview:recyclerview:$rootProject.recyclerViewVersion"
+    implementation "androidx.cardview:cardview:$rootProject.cardViewVersion"
+    implementation "com.google.android.material:material:$rootProject.materialVersion"
+    implementation "androidx.vectordrawable:vectordrawable:$rootProject.vectorDrawableVersion"
+    implementation "androidx.vectordrawable:vectordrawable-animated:$rootProject.animatedVectorDrawableVersion"
+    implementation "androidx.constraintlayout:constraintlayout:$rootProject.constraintLayoutVersion"
+
+    //Network
+    implementation "com.amitshekhar.android:rx2-android-networking:$rootProject.rx2FastAndroidNetworking"
+
+    //Database
+    implementation "androidx.room:room-rxjava2:$rootProject.roomDatabaseVersion"
+    annotationProcessor "androidx.room:room-compiler:$rootProject.roomDatabaseVersion"
+
+    //Font
+    //implementation "uk.co.chrisjenx:calligraphy:$rootProject.calligraphyVersion"
+
+    //Image
+    implementation "com.github.bumptech.glide:glide:$rootProject.glideVersion"
+
+    //Parser
+    implementation "com.google.code.gson:gson:$rootProject.gsonVersion"
+
+    //Debug database
+    debugImplementation "com.amitshekhar.android:debug-db:$rootProject.debugDBVersion"
+    debugImplementation "com.amitshekhar.android:debug-db-encrypt:$rootProject.debugDBVersion"
+
+    //Dependency injection
+    implementation "com.google.dagger:dagger:$rootProject.dagger2Version"
+    annotationProcessor "com.google.dagger:dagger-compiler:$rootProject.dagger2Version"
+    annotationProcessor "com.google.dagger:dagger-android-processor:$rootProject.dagger2Version"
+    implementation "com.google.dagger:dagger-android-support:$rootProject.dagger2Version"
+
+    //Reactive
+    implementation "io.reactivex.rxjava2:rxjava:$rootProject.rxjava2Version"
+    implementation "io.reactivex.rxjava2:rxandroid:$rootProject.rxandroidVersion"
+
+    //Swipe view
+    implementation "com.mindorks:placeholderview:$rootProject.placeholderviewVersion"
+
+    //Logger
+    implementation "com.jakewharton.timber:timber:$rootProject.timberVersion"
+
+    //Dependencies for local unit tests
+    testImplementation "junit:junit:$rootProject.ext.junitVersion"
+    testImplementation "org.mockito:mockito-core:$rootProject.mockitoVersion"
+    testAnnotationProcessor "com.google.dagger:dagger-compiler:$rootProject.dagger2Version"
+
+    //UI Testing
+    androidTestImplementation "androidx.test.espresso:espresso-core:$rootProject.espressoVersion"
+    androidTestImplementation "androidx.test.espresso:espresso-intents:$rootProject.espressoVersion"
+    androidTestImplementation "androidx.test.ext:junit:$rootProject.JUnit4ClassRunnerVersion"
+    androidTestImplementation "org.mockito:mockito-core:$rootProject.mockitoVersion"
+    androidTestAnnotationProcessor "com.google.dagger:dagger-compiler:$rootProject.dagger2Version"
+
+    //View model
+    implementation "androidx.lifecycle:lifecycle-extensions:$rootProject.lifecycleVersion"
+    //annotationProcessor "androidx.lifecycle:lifecycle-compiler:$rootProject.lifecycleVersion"
+    implementation "androidx.lifecycle:lifecycle-common-java8:$rootProject.lifecycleVersion"
+
+    //DebugImplementation because LeakCanary should only run in debug builds.
+    //debugImplementation 'com.squareup.leakcanary:leakcanary-android:2.0-beta-3'
+
+    //Google Play Services and FireBase lib
+    implementation "androidx.multidex:multidex:$rootProject.multidexVersion"
+    implementation "com.google.android.gms:play-services-location:$rootProject.playServiceLocationVersion"
+    implementation "com.google.android.gms:play-services-maps:$rootProject.playServiceMapsVersion"
+    implementation "com.google.android.gms:play-services-ads:$rootProject.playServicesAdsVersion"
+    implementation "com.google.firebase:firebase-analytics:$rootProject.firebaseAnalyticsVersion" //Firebase SDK for Google Analytics.
+    implementation "com.google.firebase:firebase-crashlytics:$rootProject.firebaseCrashlyticsVersion" //Firebase SDK for Crashlytics.
+    implementation "com.google.firebase:firebase-core:$rootProject.firebaseCoreVersion"
+    implementation "com.google.firebase:firebase-messaging:$rootProject.firebaseMessagingVersion"
+
+    //Youtube lib
+    implementation "com.pierfrancescosoffritti.androidyoutubeplayer:core:$rootProject.androidYouTubePlayerVersion"
+
+    //Swipe Refresh Layout
+    implementation "androidx.swiperefreshlayout:swiperefreshlayout:$rootProject.swiperefreshlayoutVersion"
+
+    //Auto image Slider
+    implementation "com.github.smarteist:autoimageslider:$rootProject.autoimageSliderVersion"
+}
+
+configurations.all {
+    resolutionStrategy.force 'com.google.code.findbugs:jsr305:1.3.9'
+}

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- https://alexzh.com/2015/06/26/support-multiple-themes-in-android-application/ -->
+    <!-- https://material.io/resources/color/#!/?view.left=0&view.right=0 -->
+
+    <color name="color_try_2">#6c0026</color>
+    <color name="color_try_3">#92d49e</color>
+
+    <!-- Common FF424242-->
+    <color name="color_ripple">#33AAAAAA</color>
+    <color name="color_divider">#33AAAAAA</color>
+    <color name="color_stroke">#33484848</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_error">#A3070D</color>
+    <color name="color_title_background">#30000000</color>
+    <color name="color_transparent">#00000000</color>
+    <color name="color_image_background">#EDEDED</color>
+    <color name="color_image_full_background">#000000</color>
+    <color name="color_play_video_background">#000000</color>
+    <color name="color_window_background">#EDEDED</color>
+    <color name="color_switch_thumb_normal_inactive">#F1F1F1</color>
+
+    <!-- Theme Colors DarkPurple (Default) -->
+    <color name="colorPrimary_DarkPurple">#7a0062</color>
+    <color name="colorPrimaryLight_DarkPurple">#ac3f90</color>
+    <color name="colorPrimaryDark_DarkPurple">#4a0038</color>
+    <color name="colorAccent_DarkPurple">#ac3f90</color>
+    <color name="colorProgressDialog_DarkPurple">#4a0038</color>
+    <color name="colorWindowBackground_DarkPurple">#EDEDED</color>
+    <color name="colorBackground_DarkPurple">#FFFFFF</color>
+    <color name="colorText_DarkPurple">#212121</color>
+    <color name="colorTextLight_DarkPurple">#333333</color>
+    <color name="colorTextTheme_DarkPurple">#7a0062</color>
+    <color name="colorSplash_DarkPurple">#4a0038</color>
+    <color name="colorIcon_DarkPurple">#4a0038</color>
+
+    <!-- Theme Colors Tile -->
+    <color name="colorPrimary_Default">#00685e</color>
+    <color name="colorPrimaryLight_Default">#43968b</color>
+    <color name="colorPrimaryDark_Default">#003d34</color>
+    <color name="colorAccent_Default">#43968b</color>
+    <color name="colorProgressDialog_Default">#003d34</color>
+    <color name="colorWindowBackground_Default">#EDEDED</color>
+    <color name="colorBackground_Default">#FFFFFF</color>
+    <color name="colorText_Default">#000000</color>
+    <color name="colorTextLight_Default">#7e7e7e</color>
+    <color name="colorTextTheme_Default">#00685e</color>
+    <color name="colorSplash_Default">#003d34</color>
+    <color name="colorIcon_Default">#003d34</color>
+
+    <!-- Theme Colors Dark-->
+    <color name="colorPrimary_Dark">#18161B</color>
+    <color name="colorPrimaryLight_Dark">#484848</color>
+    <color name="colorPrimaryDark_Dark">#18161B</color>
+    <color name="colorAccent_Dark">#03dac5</color>
+    <color name="colorProgressDialog_Dark">#03dac5</color>
+    <color name="colorWindowBackground_Dark">#100F11</color>
+    <color name="colorBackground_Dark">#18161B</color>
+    <color name="colorText_Dark">#ffffff</color>
+    <color name="colorTextLight_Dark">#FAFAFA</color>
+    <color name="colorTextTheme_Dark">#03dac5</color>
+    <color name="colorSplash_Dark">#18161B</color>
+    <color name="colorIcon_Dark">#03dac5</color>
+
+    <!-- Theme Colors Red -->
+    <color name="colorPrimary_Red">#d32f2f</color>
+    <color name="colorPrimaryLight_Red">#ff6659</color>
+    <color name="colorPrimaryDark_Red">#9a0007</color>
+    <color name="colorAccent_Red">#ff5f52</color>
+    <color name="colorProgressDialog_Red">#9a0007</color>
+    <color name="colorWindowBackground_Red">#EDEDED</color>
+    <color name="colorBackground_Red">#FFFFFF</color>
+    <color name="colorText_Red">#212121</color>
+    <color name="colorTextLight_Red">#333333</color>
+    <color name="colorTextTheme_Red">#d32f2f</color>
+    <color name="colorSplash_Red">#9a0007</color>
+    <color name="colorIcon_Red">#9a0007</color>
+
+    <!-- Theme Colors AmberYellow -->
+    <color name="colorPrimary_AmberYellow">#FFC107</color>
+    <color name="colorPrimaryLight_AmberYellow">#FFECB3</color>
+    <color name="colorPrimaryDark_AmberYellow">#FFA000</color>
+    <color name="colorAccent_AmberYellow">#FFEB3B</color>
+    <color name="colorProgressDialog_AmberYellow">#FFA000</color>
+    <color name="colorWindowBackground_AmberYellow">#EDEDED</color>
+    <color name="colorBackground_AmberYellow">#FFFFFF</color>
+    <color name="colorText_AmberYellow">#212121</color>
+    <color name="colorTextLight_AmberYellow">#757575</color>
+    <color name="colorTextTheme_AmberYellow">#FFC107</color>
+    <color name="colorSplash_AmberYellow">#FFA000</color>
+    <color name="colorIcon_AmberYellow">#FFA000</color>
+
+    <!-- Theme Colors DeepBlue -->
+    <color name="colorPrimary_DeepBlue">#001853</color>
+    <color name="colorPrimaryLight_DeepBlue">#3a3e80</color>
+    <color name="colorPrimaryDark_DeepBlue">#00002b</color>
+    <color name="colorAccent_DeepBlue">#3a3e80</color>
+    <color name="colorProgressDialog_DeepBlue">#00002b</color>
+    <color name="colorWindowBackground_DeepBlue">#EDEDED</color>
+    <color name="colorBackground_DeepBlue">#FFFFFF</color>
+    <color name="colorText_DeepBlue">#000000</color>
+    <color name="colorTextLight_DeepBlue">#7e7e7e</color>
+    <color name="colorTextTheme_DeepBlue">#001853</color>
+    <color name="colorSplash_DeepBlue">#00002b</color>
+    <color name="colorIcon_DeepBlue">#00002b</color>
+
+    <!-- Theme Colors Purple Not Used-->
+    <color name="colorPrimary_Purple">#9C27B0</color>
+    <color name="colorPrimaryLight_Purple">#E1BEE7</color>
+    <color name="colorPrimaryDark_Purple">#7B1FA2</color>
+    <color name="colorAccent_Purple">#9E9E9E</color>
+    <color name="colorProgressDialog_Purple">#7B1FA2</color>
+    <color name="colorWindowBackground_Purple">#EDEDED</color>
+    <color name="colorBackground_Purple">#FFFFFF</color>
+    <color name="colorText_Purple">#212121</color>
+    <color name="colorTextLight_Purple">#333333</color>
+    <color name="colorTextTheme_Purple">#9C27B0</color>
+    <color name="colorSplash_Purple">#7B1FA2</color>
+    <color name="colorIcon_Purple">#7B1FA2</color>
+
+</resources>
