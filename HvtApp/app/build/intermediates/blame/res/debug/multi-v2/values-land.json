@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "G:\\WorkSpace\\AppHaveri\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ce992\\.gradle\\caches\\transforms-2\\files-2.1\\b9abeb939037774d13eb7e135b61d913\\appcompat-1.1.0\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\satish\\.gradle\\caches\\transforms-2\\files-2.1\\b9abeb939037774d13eb7e135b61d913\\appcompat-1.1.0\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ce992\\.gradle\\caches\\transforms-2\\files-2.1\\73ce7987e7e381d5b92ab2856e6500fe\\material-1.1.0\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\satish\\.gradle\\caches\\transforms-2\\files-2.1\\73ce7987e7e381d5b92ab2856e6500fe\\material-1.1.0\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,24,30",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

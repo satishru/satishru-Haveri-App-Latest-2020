@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                   
+
+    
+                                          
+                 
+                            
+                                                                                                                  
+           
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" android:tag="layout/fragment_taluk_event_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+
+        <application.haveri.tourism.ui.custom.CustomTextView
+            android:id="@+id/tv_no_data"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_centerInParent="true"
+            android:text="@string/label_no_data"
+            android:textColor="?attr/colorPrimaryText"
+            android:textSize="@dimen/font_normal"
+            app:customFont="@string/font_roboto_regular"
+            android:tag="binding_1"                                                               />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rv_event_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="@dimen/margin_10"
+            android:paddingBottom="@dimen/margin_10"
+            android:paddingEnd="@dimen/margin_10"
+            android:paddingStart="@dimen/margin_10"
+            android:clipToPadding="false"
+            android:tag="binding_2"                  
+            tools:listitem="@layout/layout_event_item" />
+
+    </RelativeLayout>
+         

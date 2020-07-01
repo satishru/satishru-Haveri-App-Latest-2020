@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                        
+
+    
+
+                                                                      
+
+                 
+                            
+                                                                                                         
+           
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/card_content"
+        android:layout_width="@dimen/home_place_image_width"
+        android:layout_height="wrap_content"
+        app:cardBackgroundColor="?attr/colorBackground"
+        app:cardCornerRadius="@dimen/card_corner_radius"
+        app:cardElevation="@dimen/card_elevation"
+        app:cardUseCompatPadding="true" android:tag="layout/layout_home_place_item_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:tag="binding_1"                         
+            android:background="?android:attr/selectableItemBackground">
+
+            <application.haveri.tourism.ui.custom.SquareImageView
+                android:id="@+id/iv_place"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:background="@color/color_image_background"
+                android:scaleType="centerCrop"
+                android:tag="binding_2"              />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/margin_10"
+                android:layout_marginTop="@dimen/margin_10"
+                android:layout_marginRight="@dimen/margin_10"
+                android:layout_marginBottom="@dimen/margin_6"
+                android:orientation="vertical"
+                android:layout_below="@+id/iv_place">
+
+                <application.haveri.tourism.ui.custom.CustomTextView
+                    android:id="@+id/tv_place_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/margin_2"
+                    android:ellipsize="end"
+                    android:maxLines="1"
+                    android:tag="binding_3"              
+                    android:textColor="?attr/colorPrimaryText"
+                    android:textSize="@dimen/font_medium"
+                    android:textStyle="bold"
+                    app:customFont="@string/font_roboto_medium" />
+
+                <application.haveri.tourism.ui.custom.CustomTextView
+                    android:id="@+id/tv_taluk_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:tag="binding_4"              
+                    android:textColor="?attr/colorTextLight"
+                    android:textSize="@dimen/font_small"
+                    app:customFont="@string/font_roboto_light" />
+
+                <application.haveri.tourism.ui.custom.CustomTextView
+                    android:id="@+id/tv_place_desc"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/margin_6"
+                    android:ellipsize="end"
+                    android:maxLines="2"
+                    android:tag="binding_5"                                         
+                    android:textColor="?attr/colorTextLight"
+                    android:textSize="@dimen/font_small"
+                    app:customFont="@string/font_roboto_light" />
+
+            </LinearLayout>
+
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+         

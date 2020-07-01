@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                   
+
+    
+
+                                                                      
+
+                                           
+
+                 
+                            
+                                                                                               
+           
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="application.haveri.tourism.ui.activity.event.EventDetailActivity" android:tag="layout/activity_event_detail_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+
+        <include
+            android:id="@+id/layout_toolbar"
+            layout="@layout/layout_toolbar" />
+
+        <androidx.core.widget.NestedScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardBackgroundColor="?attr/colorBackground"
+                app:cardCornerRadius="@dimen/card_corner_no_radius"
+                app:cardElevation="@dimen/card_elevation">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <RelativeLayout
+                        android:id="@+id/rl_content"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:id="@+id/iv_thumb"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/video_gallery_height"
+                            android:background="@color/color_image_background"
+                            android:contentDescription="@string/app_name"
+                            android:scaleType="centerCrop"
+                            android:tag="binding_1"                                                                              
+                                                                   />
+
+                        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+                            android:id="@+id/youtube_player_view"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:visibility="gone"
+                            app:enableAutomaticInitialization="true"
+                            app:showFullScreenButton="false" />
+
+                        <ImageView
+                            android:id="@+id/btn_play"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerInParent="true"
+                            android:layout_gravity="center"
+                            android:contentDescription="@string/app_name"
+                            android:tag="binding_2"                               
+                                                                                                     
+                            app:srcCompat="@drawable/ic_play_circle_outline" />
+
+                    </RelativeLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:paddingBottom="@dimen/margin_16">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="@dimen/margin_10"
+                            android:layout_marginTop="@dimen/margin_16"
+                            android:layout_marginEnd="@dimen/margin_10">
+
+                            <application.haveri.tourism.ui.custom.CustomTextView
+                                android:id="@+id/tv_event_title"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:tag="binding_3"               
+                                android:paddingEnd="@dimen/margin_16"
+                                android:paddingStart="0dp"
+                                android:layout_toStartOf="@+id/iv_map_direction"
+                                android:textColor="?attr/colorPrimaryText"
+                                android:textSize="@dimen/font_normal"
+                                android:textStyle="bold"
+                                app:customFont="@string/font_roboto_medium" />
+
+                            <ImageView
+                                android:id="@+id/iv_map_direction"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentEnd="true"
+                                android:contentDescription="@string/app_name"
+                                android:tint="?attr/colorIcon"
+                                android:tag="binding_4"                                  
+                                app:srcCompat="@drawable/ic_map_direction"
+                                                                                                              />
+
+                        </RelativeLayout>
+
+                        <application.haveri.tourism.ui.custom.CustomTextView
+                            android:id="@+id/tv_place_title"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="@dimen/margin_10"
+                            android:layout_marginTop="@dimen/margin_2"
+                            android:layout_marginEnd="@dimen/margin_10"
+                            android:tag="binding_5"               
+                            android:textColor="?attr/colorPrimaryText"
+                            android:textSize="@dimen/font_medium"
+                            app:customFont="@string/font_roboto_regular" />
+
+                        <application.haveri.tourism.ui.custom.CustomTextView
+                            android:id="@+id/tv_event_date"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="@dimen/margin_10"
+                            android:layout_marginTop="@dimen/margin_6"
+                            android:layout_marginEnd="@dimen/margin_10"
+                            android:tag="binding_6"              
+                            android:textColor="?attr/colorPrimaryText"
+                            android:textSize="@dimen/font_small"
+                            app:customFont="@string/font_roboto_light" />
+
+                        <application.haveri.tourism.ui.custom.CustomTextView
+                            android:id="@+id/tv_event_address"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="@dimen/margin_10"
+                            android:layout_marginTop="@dimen/margin_10"
+                            android:layout_marginEnd="@dimen/margin_10"
+                            android:tag="binding_7"                 
+                            android:textColor="?attr/colorPrimaryText"
+                            android:textSize="@dimen/font_small"
+                            app:customFont="@string/font_roboto_light" />
+
+                        <application.haveri.tourism.ui.custom.CustomTextView
+                            android:id="@+id/tv_event_detail"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="@dimen/margin_10"
+                            android:layout_marginTop="@dimen/margin_10"
+                            android:layout_marginEnd="@dimen/margin_10"
+                            android:tag="binding_8"                                     
+                            android:textColor="?attr/colorPrimaryText"
+                            android:textSize="@dimen/font_medium"
+                            app:customFont="@string/font_roboto_regular" />
+
+                    </LinearLayout>
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+        </androidx.core.widget.NestedScrollView>
+
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+         

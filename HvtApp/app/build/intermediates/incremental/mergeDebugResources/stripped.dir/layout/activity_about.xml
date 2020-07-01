@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                        
+
+    
+
+                                                                       
+
+                 
+                            
+                                                                                         
+           
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="?attr/colorSplash"
+        android:fitsSystemWindows="true" android:tag="layout/activity_about_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <ImageView
+            android:id="@+id/iv_about_bg"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:contentDescription="@string/app_name"
+            android:fitsSystemWindows="true"
+            android:scaleType="centerCrop"
+            android:tag="binding_1"                           />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true">
+
+            <ImageView
+                android:id="@+id/iv_about_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:contentDescription="@string/app_name"
+                android:src="@mipmap/ic_launcher" />
+
+            <application.haveri.tourism.ui.custom.CustomTextView
+                android:id="@+id/tv_about"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/iv_about_icon"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/margin_16"
+                android:includeFontPadding="true"
+                android:text="@string/title_app_name"
+                android:textColor="@color/color_white"
+                android:textSize="@dimen/font_30" />
+
+            <application.haveri.tourism.ui.custom.CustomTextView
+                android:id="@+id/tv_version"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv_about"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/margin_30"
+                android:includeFontPadding="true"
+                android:tag="binding_2"                           
+                android:textColor="@color/color_white"
+                android:textSize="@dimen/font_small" />
+        </RelativeLayout>
+
+    </RelativeLayout>
+         

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                              
+                                                  
+                                                        
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="application.haveri.tourism.ui.activity.home.HomeActivity" android:tag="layout/activity_map_single_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <include
+            android:id="@+id/layout_toolbar"
+            layout="@layout/layout_toolbar"/>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior"
+            tools:context="application.haveri.tourism.ui.activity.map.MapSingleActivity">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <androidx.fragment.app.FragmentContainerView
+                    android:id="@+id/map"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:name="com.google.android.gms.maps.SupportMapFragment"/>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentBottom="true"
+                    android:gravity="bottom"
+                    android:layout_gravity="center"
+                    android:orientation="horizontal"
+                    android:layout_marginEnd="@dimen/margin_30"
+                    android:layout_marginBottom="@dimen/margin_30"
+                    android:background="@drawable/rounded_background_semi_transparent"
+                    android:visibility="visible">
+
+                    <ImageView
+                        android:id="@+id/iv_map_direction"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:contentDescription="@string/app_name"
+                        android:paddingTop="@dimen/margin_8"
+                        android:paddingBottom="@dimen/margin_8"
+                        android:paddingStart="@dimen/margin_16"
+                        android:paddingEnd="@dimen/margin_16"
+                        android:tint="?attr/colorIcon"
+                        android:src="@drawable/ic_map_direction" />
+
+                    <View
+                        android:layout_width="0.5dp"
+                        android:layout_height="match_parent"
+                        android:background="?attr/colorIcon"/>
+
+                    <ImageView
+                        android:id="@+id/iv_map_view"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:contentDescription="@string/app_name"
+                        android:paddingTop="@dimen/margin_8"
+                        android:paddingBottom="@dimen/margin_8"
+                        android:paddingStart="@dimen/margin_16"
+                        android:paddingEnd="@dimen/margin_16"
+                        android:tint="?attr/colorIcon"
+                        android:src="@drawable/ic_map" />
+
+                </LinearLayout>
+
+            </RelativeLayout>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+         

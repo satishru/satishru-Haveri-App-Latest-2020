@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                        
+
+    
+
+                 
+                                   
+                             
+
+                 
+                           
+                                                                                           
+           
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" android:tag="layout/layout_fullscreen_image_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <ImageView
+            android:id="@+id/iv_place_holder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:tint="@color/color_white"
+            android:alpha="0.25"
+            android:src="@drawable/ic_image_place_holder"
+            android:contentDescription="@string/app_name" />
+
+        <application.haveri.tourism.ui.custom.TouchImageView
+            android:id="@+id/iv_image"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitCenter"
+            android:tag="binding_1"                 />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="@color/color_title_background"
+            android:padding="@dimen/margin_16">
+
+            <application.haveri.tourism.ui.custom.CustomTextView
+                android:id="@+id/tv_image_desc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textColor="@color/color_white"
+                android:textSize="@dimen/font_medium"
+                app:customFont="@string/font_roboto_regular"
+                android:tag="binding_2"                   
+                                               />
+        </LinearLayout>
+
+
+    </RelativeLayout>
+         

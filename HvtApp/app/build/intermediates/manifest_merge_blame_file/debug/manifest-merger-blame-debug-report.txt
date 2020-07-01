@@ -7,425 +7,426 @@
 7
 8    <uses-sdk
 9        android:minSdkVersion="21"
-9-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml
+9-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml
 10        android:targetSdkVersion="28" />
-10-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml
+10-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml
 11
 12    <dist:module dist:instant="true" />
-12-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:7:5-40
-12-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:7:18-37
+12-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:7:5-40
+12-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:7:18-37
 13
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:9:5-67
-14-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:9:22-64
+14-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:9:5-67
+14-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:9:22-64
 15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-15-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:10:5-79
-15-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:10:22-76
+15-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:10:5-79
+15-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:10:22-76
 16    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-16-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:11:5-76
-16-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:11:22-73
+16-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:11:5-76
+16-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:11:22-73
 17    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-17-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:12:5-81
-17-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:12:22-78
+17-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:12:5-81
+17-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:12:22-78
 18    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-18-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:13:5-79
-18-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:13:22-76
+18-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:13:5-79
+18-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:13:22-76
 19
 20    <uses-feature
-20-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\abf5870384a73905f4a293be1b4015b4\play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+20-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\abf5870384a73905f4a293be1b4015b4\play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
 21        android:glEsVersion="0x00020000"
-21-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\abf5870384a73905f4a293be1b4015b4\play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+21-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\abf5870384a73905f4a293be1b4015b4\play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
 22        android:required="true" />
-22-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\abf5870384a73905f4a293be1b4015b4\play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+22-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\abf5870384a73905f4a293be1b4015b4\play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
 23
 24    <uses-permission android:name="android.permission.WAKE_LOCK" />
-24-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:25:5-68
-24-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:25:22-65
+24-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:25:5-68
+24-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:25:22-65
 25    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
-25-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:26:5-110
-25-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:26:22-107
+25-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:26:5-110
+25-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:26:22-107
 26    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
-26-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\04c07b43851a5569375de3bf46bd8e25\firebase-iid-20.1.5\AndroidManifest.xml:26:5-82
-26-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\04c07b43851a5569375de3bf46bd8e25\firebase-iid-20.1.5\AndroidManifest.xml:26:22-79
+26-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\04c07b43851a5569375de3bf46bd8e25\firebase-iid-20.1.5\AndroidManifest.xml:26:5-82
+26-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\04c07b43851a5569375de3bf46bd8e25\firebase-iid-20.1.5\AndroidManifest.xml:26:22-79
 27
 28    <application
-28-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:15:5-83:19
+28-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:15:5-83:19
 29        android:name="application.haveri.tourism.HaveriApplication"
-29-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:16:9-42
+29-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:16:9-42
 30        android:allowBackup="false"
-30-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:17:9-36
+30-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:17:9-36
 31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-31-->[androidx.core:core:1.1.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\9d243c613d93ae7fe8244697b9161b71\core-1.1.0\AndroidManifest.xml:24:18-86
+31-->[androidx.core:core:1.1.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\9d243c613d93ae7fe8244697b9161b71\core-1.1.0\AndroidManifest.xml:24:18-86
 32        android:debuggable="true"
 33        android:fullBackupContent="false"
-33-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:18:9-42
+33-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:18:9-42
 34        android:hardwareAccelerated="true"
-34-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:19:9-43
+34-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:19:9-43
 35        android:icon="@mipmap/ic_launcher"
-35-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:20:9-43
+35-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:20:9-43
 36        android:label="@string/app_name"
-36-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:21:9-41
+36-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:21:9-41
 37        android:largeHeap="true"
-37-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:22:9-33
+37-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:22:9-33
 38        android:roundIcon="@mipmap/ic_launcher_round"
-38-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:23:9-54
+38-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:23:9-54
 39        android:supportsRtl="true"
-39-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:24:9-35
-40        android:theme="@style/AppThemeDarkPurple" >
-40-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:25:9-50
-41        <activity
-41-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:28:9-37:20
-42            android:name="application.haveri.tourism.ui.activity.splash.SplashActivity"
-42-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:29:13-62
-43            android:configChanges="orientation|keyboardHidden|screenSize"
-43-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:31:13-74
-44            android:theme="@style/FullscreenTheme" >
-44-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:30:13-51
-45            <intent-filter>
-45-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:32:13-36:29
-46                <action android:name="android.intent.action.MAIN" />
-46-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:33:17-69
-46-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:33:25-66
-47
-48                <category android:name="android.intent.category.LAUNCHER" />
-48-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:35:17-77
-48-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:35:27-74
-49            </intent-filter>
-50        </activity>
-51        <activity
-51-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:38:9-40:84
-52            android:name="application.haveri.tourism.ui.activity.home.HomeActivity"
-52-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:39:13-58
-53            android:configChanges="locale|orientation|screenSize|keyboardHidden" />
-53-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:40:13-81
-54        <activity
-54-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:41:9-43:84
-55            android:name="application.haveri.tourism.ui.activity.map.MapSingleActivity"
-55-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:42:13-62
-56            android:configChanges="locale|orientation|screenSize|keyboardHidden" />
-56-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:43:13-81
-57        <activity
-57-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:44:9-46:91
-58            android:name="application.haveri.tourism.ui.activity.setting.SettingActivity"
-58-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:45:13-64
-59            android:configChanges="locale|orientation|screenSize|keyboardHidden|locale" />
-59-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:46:13-88
-60        <activity
-60-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:47:9-49:91
-61            android:name="application.haveri.tourism.ui.activity.taluk.TalukActivity"
-61-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:48:13-60
-62            android:configChanges="locale|orientation|screenSize|keyboardHidden|locale" />
-62-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:49:13-88
-63        <activity
-63-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:50:9-52:91
-64            android:name="application.haveri.tourism.ui.activity.media.image.ImageViewActivity"
-64-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:51:13-70
-65            android:configChanges="locale|orientation|screenSize|keyboardHidden|locale" />
-65-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:52:13-88
-66        <activity
-66-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:53:9-55:91
-67            android:name="application.haveri.tourism.ui.activity.event.EventDetailActivity"
-67-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:54:13-66
-68            android:configChanges="locale|orientation|screenSize|keyboardHidden|locale" />
-68-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:55:13-88
-69        <activity
-69-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:56:9-58:91
-70            android:name="application.haveri.tourism.ui.activity.media.video.VideosExploreActivity"
-70-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:57:13-74
-71            android:configChanges="locale|orientation|screenSize|keyboardHidden|locale" />
-71-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:58:13-88
-72        <activity
-72-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:59:9-61:91
-73            android:name="application.haveri.tourism.ui.activity.place.PlaceActivity"
-73-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:60:13-60
-74            android:configChanges="locale|orientation|screenSize|keyboardHidden|locale" />
-74-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:61:13-88
-75        <activity
-75-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:62:9-66:53
-76            android:name="application.haveri.tourism.ui.activity.about.AboutActivity"
-76-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:63:13-60
-77            android:configChanges="orientation|keyboardHidden|screenSize"
-77-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:65:13-74
-78            android:screenOrientation="portrait"
-78-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:64:13-49
-79            android:theme="@style/FullscreenTheme" />
-79-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:66:13-51
-80
-81        <meta-data
-81-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:68:9-70:54
-82            android:name="com.google.android.gms.ads.APPLICATION_ID"
-82-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:69:13-69
-83            android:value="@string/ADD_MOB_APP_ID" />
-83-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:70:13-51
-84        <meta-data
-84-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:71:9-73:58
-85            android:name="com.google.android.geo.API_KEY"
-85-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:72:13-58
-86            android:value="@string/GOOGLE_MAP_API_KEY" />
-86-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:73:13-55
-87
-88        <service
-88-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:75:9-81:19
-89            android:name="application.haveri.tourism.notifications.AppFirebaseMessagingService"
-89-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:76:13-70
-90            android:exported="false" >
-90-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:77:13-37
-91            <intent-filter>
-91-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:78:13-80:29
-92                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-92-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:79:17-77
-92-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:79:25-75
-93            </intent-filter>
-94        </service>
-95
-96        <provider
-96-->[com.amitshekhar.android:debug-db:1.0.6] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\285b57db3e278211b6af89c8b655c41c\debug-db-1.0.6\AndroidManifest.xml:12:9-16:40
-97            android:name="com.amitshekhar.debug.DebugDBInitProvider"
-97-->[com.amitshekhar.android:debug-db:1.0.6] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\285b57db3e278211b6af89c8b655c41c\debug-db-1.0.6\AndroidManifest.xml:13:13-69
-98            android:authorities="application.haveri.tourism.debug.DebugDBInitProvider"
-98-->[com.amitshekhar.android:debug-db:1.0.6] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\285b57db3e278211b6af89c8b655c41c\debug-db-1.0.6\AndroidManifest.xml:14:13-71
-99            android:enabled="true"
-99-->[com.amitshekhar.android:debug-db:1.0.6] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\285b57db3e278211b6af89c8b655c41c\debug-db-1.0.6\AndroidManifest.xml:15:13-35
-100            android:exported="false" />
-100-->[com.amitshekhar.android:debug-db:1.0.6] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\285b57db3e278211b6af89c8b655c41c\debug-db-1.0.6\AndroidManifest.xml:16:13-37
-101        <provider
-101-->[com.amitshekhar.android:debug-db-encrypt:1.0.6] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\b3be057c9a3f0b995e11760f9d6b1f10\debug-db-encrypt-1.0.6\AndroidManifest.xml:12:9-16:40
-102            android:name="com.amitshekhar.debug.encrypt.DebugDBEncryptInitProvider"
-102-->[com.amitshekhar.android:debug-db-encrypt:1.0.6] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\b3be057c9a3f0b995e11760f9d6b1f10\debug-db-encrypt-1.0.6\AndroidManifest.xml:13:13-84
-103            android:authorities="application.haveri.tourism.debug.DebugDBEncryptInitProvider"
-103-->[com.amitshekhar.android:debug-db-encrypt:1.0.6] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\b3be057c9a3f0b995e11760f9d6b1f10\debug-db-encrypt-1.0.6\AndroidManifest.xml:14:13-78
-104            android:enabled="true"
-104-->[com.amitshekhar.android:debug-db-encrypt:1.0.6] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\b3be057c9a3f0b995e11760f9d6b1f10\debug-db-encrypt-1.0.6\AndroidManifest.xml:15:13-35
-105            android:exported="false" />
-105-->[com.amitshekhar.android:debug-db-encrypt:1.0.6] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\b3be057c9a3f0b995e11760f9d6b1f10\debug-db-encrypt-1.0.6\AndroidManifest.xml:16:13-37
-106
-107        <service
-107-->[com.google.firebase:firebase-crashlytics:17.0.0-beta03] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\0ccbeab84180a9f9d5356567a22fdc4f\firebase-crashlytics-17.0.0-beta03\AndroidManifest.xml:13:9-19:19
-108            android:name="com.google.firebase.components.ComponentDiscoveryService"
-108-->[com.google.firebase:firebase-crashlytics:17.0.0-beta03] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\0ccbeab84180a9f9d5356567a22fdc4f\firebase-crashlytics-17.0.0-beta03\AndroidManifest.xml:14:13-84
-109            android:directBootAware="true"
-109-->[com.google.firebase:firebase-common:19.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\20b4db829d3e147c0ff749a914b2e8e3\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
-110            android:exported="false" >
-110-->[com.google.firebase:firebase-crashlytics:17.0.0-beta03] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\0ccbeab84180a9f9d5356567a22fdc4f\firebase-crashlytics-17.0.0-beta03\AndroidManifest.xml:15:13-37
-111            <meta-data
-111-->[com.google.firebase:firebase-crashlytics:17.0.0-beta03] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\0ccbeab84180a9f9d5356567a22fdc4f\firebase-crashlytics-17.0.0-beta03\AndroidManifest.xml:16:13-18:85
-112                android:name="com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar"
-112-->[com.google.firebase:firebase-crashlytics:17.0.0-beta03] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\0ccbeab84180a9f9d5356567a22fdc4f\firebase-crashlytics-17.0.0-beta03\AndroidManifest.xml:17:17-115
-113                android:value="com.google.firebase.components.ComponentRegistrar" />
-113-->[com.google.firebase:firebase-crashlytics:17.0.0-beta03] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\0ccbeab84180a9f9d5356567a22fdc4f\firebase-crashlytics-17.0.0-beta03\AndroidManifest.xml:18:17-82
-114            <meta-data
-114-->[com.google.firebase:firebase-messaging:20.1.5] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\65551c95349f9c8ea764bcaaf44cf993\jetified-firebase-messaging-20.1.5\AndroidManifest.xml:38:13-40:85
-115                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
-115-->[com.google.firebase:firebase-messaging:20.1.5] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\65551c95349f9c8ea764bcaaf44cf993\jetified-firebase-messaging-20.1.5\AndroidManifest.xml:39:17-119
-116                android:value="com.google.firebase.components.ComponentRegistrar" />
-116-->[com.google.firebase:firebase-messaging:20.1.5] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\65551c95349f9c8ea764bcaaf44cf993\jetified-firebase-messaging-20.1.5\AndroidManifest.xml:40:17-82
-117            <meta-data
-117-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\b9308e07dd40327fadd680d6a2ff1f84\firebase-datatransport-17.0.3\AndroidManifest.xml:28:13-30:85
-118                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
-118-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\b9308e07dd40327fadd680d6a2ff1f84\firebase-datatransport-17.0.3\AndroidManifest.xml:29:17-115
-119                android:value="com.google.firebase.components.ComponentRegistrar" />
-119-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\b9308e07dd40327fadd680d6a2ff1f84\firebase-datatransport-17.0.3\AndroidManifest.xml:30:17-82
-120            <meta-data
-120-->[com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\d2bba190c24323a4230301b9712b1326\play-services-measurement-api-17.3.0\AndroidManifest.xml:30:13-32:85
-121                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
-121-->[com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\d2bba190c24323a4230301b9712b1326\play-services-measurement-api-17.3.0\AndroidManifest.xml:31:17-139
-122                android:value="com.google.firebase.components.ComponentRegistrar" />
-122-->[com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\d2bba190c24323a4230301b9712b1326\play-services-measurement-api-17.3.0\AndroidManifest.xml:32:17-82
-123            <meta-data
-123-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\04c07b43851a5569375de3bf46bd8e25\firebase-iid-20.1.5\AndroidManifest.xml:32:13-34:85
-124                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
-124-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\04c07b43851a5569375de3bf46bd8e25\firebase-iid-20.1.5\AndroidManifest.xml:33:17-96
-125                android:value="com.google.firebase.components.ComponentRegistrar" />
-125-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\04c07b43851a5569375de3bf46bd8e25\firebase-iid-20.1.5\AndroidManifest.xml:34:17-82
-126            <meta-data
-126-->[com.google.firebase:firebase-installations:16.2.1] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\d7db16d6de2f7fc967d50683017589c5\firebase-installations-16.2.1\AndroidManifest.xml:17:13-19:85
-127                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
-127-->[com.google.firebase:firebase-installations:16.2.1] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\d7db16d6de2f7fc967d50683017589c5\firebase-installations-16.2.1\AndroidManifest.xml:18:17-127
-128                android:value="com.google.firebase.components.ComponentRegistrar" />
-128-->[com.google.firebase:firebase-installations:16.2.1] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\d7db16d6de2f7fc967d50683017589c5\firebase-installations-16.2.1\AndroidManifest.xml:19:17-82
-129        </service>
-130        <!--
-131             FirebaseMessagingService performs security checks at runtime,
-132             but set to not exported to explicitly avoid allowing another app to call it.
-133        -->
-134        <service
-134-->[com.google.firebase:firebase-messaging:20.1.5] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\65551c95349f9c8ea764bcaaf44cf993\jetified-firebase-messaging-20.1.5\AndroidManifest.xml:28:9-34:19
-135            android:name="com.google.firebase.messaging.FirebaseMessagingService"
-135-->[com.google.firebase:firebase-messaging:20.1.5] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\65551c95349f9c8ea764bcaaf44cf993\jetified-firebase-messaging-20.1.5\AndroidManifest.xml:29:13-82
-136            android:exported="false" >
-136-->[com.google.firebase:firebase-messaging:20.1.5] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\65551c95349f9c8ea764bcaaf44cf993\jetified-firebase-messaging-20.1.5\AndroidManifest.xml:30:13-37
-137            <intent-filter android:priority="-500" >
-137-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:78:13-80:29
-138                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-138-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:79:17-77
-138-->D:\Study\HVRApp\HvtApp\app\src\main\AndroidManifest.xml:79:25-75
-139            </intent-filter>
-140        </service>
-141        <service
-141-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\c31c2422d26617014cd11c4f1f73fa49\transport-backend-cct-2.2.0\AndroidManifest.xml:29:9-35:19
-142            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
-142-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\c31c2422d26617014cd11c4f1f73fa49\transport-backend-cct-2.2.0\AndroidManifest.xml:30:13-103
-143            android:exported="false" >
-143-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\c31c2422d26617014cd11c4f1f73fa49\transport-backend-cct-2.2.0\AndroidManifest.xml:31:13-37
-144            <meta-data
-144-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\c31c2422d26617014cd11c4f1f73fa49\transport-backend-cct-2.2.0\AndroidManifest.xml:32:13-34:39
-145                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
-145-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\c31c2422d26617014cd11c4f1f73fa49\transport-backend-cct-2.2.0\AndroidManifest.xml:33:17-94
-146                android:value="cct" />
-146-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\c31c2422d26617014cd11c4f1f73fa49\transport-backend-cct-2.2.0\AndroidManifest.xml:34:17-36
-147        </service>
-148        <service
-148-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\178d358aca49f2279eeecb6a33aff8eb\transport-runtime-2.2.0\AndroidManifest.xml:26:9-30:19
-149            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
-149-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\178d358aca49f2279eeecb6a33aff8eb\transport-runtime-2.2.0\AndroidManifest.xml:27:13-117
-150            android:exported="false"
-150-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\178d358aca49f2279eeecb6a33aff8eb\transport-runtime-2.2.0\AndroidManifest.xml:28:13-37
-151            android:permission="android.permission.BIND_JOB_SERVICE" >
-151-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\178d358aca49f2279eeecb6a33aff8eb\transport-runtime-2.2.0\AndroidManifest.xml:29:13-69
-152        </service>
-153
-154        <receiver
-154-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\178d358aca49f2279eeecb6a33aff8eb\transport-runtime-2.2.0\AndroidManifest.xml:32:9-34:40
-155            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
-155-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\178d358aca49f2279eeecb6a33aff8eb\transport-runtime-2.2.0\AndroidManifest.xml:33:13-132
-156            android:exported="false" /> <!-- Needs to be explicitly declared on P+ -->
-156-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\178d358aca49f2279eeecb6a33aff8eb\transport-runtime-2.2.0\AndroidManifest.xml:34:13-37
-157        <uses-library
-157-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\abf5870384a73905f4a293be1b4015b4\play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
-158            android:name="org.apache.http.legacy"
-158-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\abf5870384a73905f4a293be1b4015b4\play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
-159            android:required="false" />
-159-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\abf5870384a73905f4a293be1b4015b4\play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
-160
-161        <receiver
-161-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:29:9-33:20
-162            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-162-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:30:13-85
-163            android:enabled="true"
-163-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:31:13-35
-164            android:exported="false" >
-164-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:32:13-37
-165        </receiver>
-166        <receiver
-166-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:34:9-42:20
-167            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
-167-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:35:13-100
-168            android:enabled="true"
-168-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:36:13-35
-169            android:exported="true"
-169-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:37:13-36
-170            android:permission="android.permission.INSTALL_PACKAGES" >
-170-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:38:13-69
-171            <intent-filter>
-171-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:39:13-41:29
-172                <action android:name="com.android.vending.INSTALL_REFERRER" />
-172-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:40:17-79
-172-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:40:25-76
-173            </intent-filter>
-174        </receiver>
-175
-176        <service
-176-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:44:9-47:40
-177            android:name="com.google.android.gms.measurement.AppMeasurementService"
-177-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:45:13-84
-178            android:enabled="true"
-178-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:46:13-35
-179            android:exported="false" />
-179-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:47:13-37
-180        <service
-180-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:48:9-52:72
-181            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
-181-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:49:13-87
-182            android:enabled="true"
-182-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:50:13-35
-183            android:exported="false"
-183-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:51:13-37
-184            android:permission="android.permission.BIND_JOB_SERVICE" />
-184-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:52:13-69
-185
-186        <receiver
-186-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\04c07b43851a5569375de3bf46bd8e25\firebase-iid-20.1.5\AndroidManifest.xml:37:9-44:20
-187            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
-187-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\04c07b43851a5569375de3bf46bd8e25\firebase-iid-20.1.5\AndroidManifest.xml:38:13-78
-188            android:exported="true"
-188-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\04c07b43851a5569375de3bf46bd8e25\firebase-iid-20.1.5\AndroidManifest.xml:39:13-36
-189            android:permission="com.google.android.c2dm.permission.SEND" >
-189-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\04c07b43851a5569375de3bf46bd8e25\firebase-iid-20.1.5\AndroidManifest.xml:40:13-73
-190            <intent-filter>
-190-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\04c07b43851a5569375de3bf46bd8e25\firebase-iid-20.1.5\AndroidManifest.xml:41:13-43:29
-191                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-191-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\04c07b43851a5569375de3bf46bd8e25\firebase-iid-20.1.5\AndroidManifest.xml:42:17-81
-191-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\04c07b43851a5569375de3bf46bd8e25\firebase-iid-20.1.5\AndroidManifest.xml:42:25-78
-192            </intent-filter>
-193        </receiver>
-194
-195        <activity
-195-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\1af79ffc87d67b2344702ec7e24a4997\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
-196            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-196-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\1af79ffc87d67b2344702ec7e24a4997\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
-197            android:exported="false"
-197-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\1af79ffc87d67b2344702ec7e24a4997\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
-198            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-198-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\1af79ffc87d67b2344702ec7e24a4997\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
-199
-200        <provider
-200-->[com.google.firebase:firebase-common:19.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\20b4db829d3e147c0ff749a914b2e8e3\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
-201            android:name="com.google.firebase.provider.FirebaseInitProvider"
-201-->[com.google.firebase:firebase-common:19.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\20b4db829d3e147c0ff749a914b2e8e3\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
-202            android:authorities="application.haveri.tourism.debug.firebaseinitprovider"
-202-->[com.google.firebase:firebase-common:19.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\20b4db829d3e147c0ff749a914b2e8e3\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
-203            android:exported="false"
-203-->[com.google.firebase:firebase-common:19.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\20b4db829d3e147c0ff749a914b2e8e3\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
-204            android:initOrder="100" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
-204-->[com.google.firebase:firebase-common:19.3.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\20b4db829d3e147c0ff749a914b2e8e3\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
-205        <activity
-205-->[com.google.android.gms:play-services-ads-lite:19.0.1] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\9be8a72cadeee6b326745f7b20ef5558\play-services-ads-lite-19.0.1\AndroidManifest.xml:29:9-33:64
-206            android:name="com.google.android.gms.ads.AdActivity"
-206-->[com.google.android.gms:play-services-ads-lite:19.0.1] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\9be8a72cadeee6b326745f7b20ef5558\play-services-ads-lite-19.0.1\AndroidManifest.xml:30:13-65
-207            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
-207-->[com.google.android.gms:play-services-ads-lite:19.0.1] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\9be8a72cadeee6b326745f7b20ef5558\play-services-ads-lite-19.0.1\AndroidManifest.xml:31:13-122
-208            android:exported="false"
-208-->[com.google.android.gms:play-services-ads-lite:19.0.1] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\9be8a72cadeee6b326745f7b20ef5558\play-services-ads-lite-19.0.1\AndroidManifest.xml:32:13-37
-209            android:theme="@android:style/Theme.Translucent" />
-209-->[com.google.android.gms:play-services-ads-lite:19.0.1] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\9be8a72cadeee6b326745f7b20ef5558\play-services-ads-lite-19.0.1\AndroidManifest.xml:33:13-61
-210
-211        <provider
-211-->[com.google.android.gms:play-services-ads-lite:19.0.1] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\9be8a72cadeee6b326745f7b20ef5558\play-services-ads-lite-19.0.1\AndroidManifest.xml:35:9-39:39
-212            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
-212-->[com.google.android.gms:play-services-ads-lite:19.0.1] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\9be8a72cadeee6b326745f7b20ef5558\play-services-ads-lite-19.0.1\AndroidManifest.xml:36:13-76
-213            android:authorities="application.haveri.tourism.debug.mobileadsinitprovider"
-213-->[com.google.android.gms:play-services-ads-lite:19.0.1] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\9be8a72cadeee6b326745f7b20ef5558\play-services-ads-lite-19.0.1\AndroidManifest.xml:37:13-73
-214            android:exported="false"
-214-->[com.google.android.gms:play-services-ads-lite:19.0.1] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\9be8a72cadeee6b326745f7b20ef5558\play-services-ads-lite-19.0.1\AndroidManifest.xml:38:13-37
-215            android:initOrder="100" />
-215-->[com.google.android.gms:play-services-ads-lite:19.0.1] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\9be8a72cadeee6b326745f7b20ef5558\play-services-ads-lite-19.0.1\AndroidManifest.xml:39:13-36
-216
-217        <meta-data
-217-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\86c3e6d5f1b324008caed1432165848b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
-218            android:name="com.google.android.gms.version"
-218-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\86c3e6d5f1b324008caed1432165848b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
-219            android:value="@integer/google_play_services_version" />
-219-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\86c3e6d5f1b324008caed1432165848b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
-220
-221        <provider
-221-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\fcfbcc8793511878d975856b139eadc2\lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
-222            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-222-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\fcfbcc8793511878d975856b139eadc2\lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
-223            android:authorities="application.haveri.tourism.debug.lifecycle-process"
-223-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\fcfbcc8793511878d975856b139eadc2\lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
-224            android:exported="false"
-224-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\fcfbcc8793511878d975856b139eadc2\lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
-225            android:multiprocess="true" />
-225-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\fcfbcc8793511878d975856b139eadc2\lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
-226
-227        <service
-227-->[androidx.room:room-runtime:2.2.5] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\9b470de51918ddbb59a38f22e3f4a428\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
-228            android:name="androidx.room.MultiInstanceInvalidationService"
-228-->[androidx.room:room-runtime:2.2.5] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\9b470de51918ddbb59a38f22e3f4a428\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
-229            android:directBootAware="true"
-229-->[androidx.room:room-runtime:2.2.5] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\9b470de51918ddbb59a38f22e3f4a428\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
-230            android:exported="false" />
-230-->[androidx.room:room-runtime:2.2.5] C:\Users\ce992\.gradle\caches\transforms-2\files-2.1\9b470de51918ddbb59a38f22e3f4a428\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
-231    </application>
-232
-233</manifest>
+39-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:24:9-35
+40        android:testOnly="true"
+41        android:theme="@style/AppThemeDarkPurple" >
+41-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:25:9-50
+42        <activity
+42-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:28:9-37:20
+43            android:name="application.haveri.tourism.ui.activity.splash.SplashActivity"
+43-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:29:13-62
+44            android:configChanges="orientation|keyboardHidden|screenSize"
+44-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:31:13-74
+45            android:theme="@style/FullscreenTheme" >
+45-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:30:13-51
+46            <intent-filter>
+46-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:32:13-36:29
+47                <action android:name="android.intent.action.MAIN" />
+47-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:33:17-69
+47-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:33:25-66
+48
+49                <category android:name="android.intent.category.LAUNCHER" />
+49-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:35:17-77
+49-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:35:27-74
+50            </intent-filter>
+51        </activity>
+52        <activity
+52-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:38:9-40:84
+53            android:name="application.haveri.tourism.ui.activity.home.HomeActivity"
+53-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:39:13-58
+54            android:configChanges="locale|orientation|screenSize|keyboardHidden" />
+54-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:40:13-81
+55        <activity
+55-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:41:9-43:84
+56            android:name="application.haveri.tourism.ui.activity.map.MapSingleActivity"
+56-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:42:13-62
+57            android:configChanges="locale|orientation|screenSize|keyboardHidden" />
+57-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:43:13-81
+58        <activity
+58-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:44:9-46:91
+59            android:name="application.haveri.tourism.ui.activity.setting.SettingActivity"
+59-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:45:13-64
+60            android:configChanges="locale|orientation|screenSize|keyboardHidden|locale" />
+60-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:46:13-88
+61        <activity
+61-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:47:9-49:91
+62            android:name="application.haveri.tourism.ui.activity.taluk.TalukActivity"
+62-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:48:13-60
+63            android:configChanges="locale|orientation|screenSize|keyboardHidden|locale" />
+63-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:49:13-88
+64        <activity
+64-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:50:9-52:91
+65            android:name="application.haveri.tourism.ui.activity.media.image.ImageViewActivity"
+65-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:51:13-70
+66            android:configChanges="locale|orientation|screenSize|keyboardHidden|locale" />
+66-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:52:13-88
+67        <activity
+67-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:53:9-55:91
+68            android:name="application.haveri.tourism.ui.activity.event.EventDetailActivity"
+68-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:54:13-66
+69            android:configChanges="locale|orientation|screenSize|keyboardHidden|locale" />
+69-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:55:13-88
+70        <activity
+70-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:56:9-58:91
+71            android:name="application.haveri.tourism.ui.activity.media.video.VideosExploreActivity"
+71-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:57:13-74
+72            android:configChanges="locale|orientation|screenSize|keyboardHidden|locale" />
+72-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:58:13-88
+73        <activity
+73-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:59:9-61:91
+74            android:name="application.haveri.tourism.ui.activity.place.PlaceActivity"
+74-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:60:13-60
+75            android:configChanges="locale|orientation|screenSize|keyboardHidden|locale" />
+75-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:61:13-88
+76        <activity
+76-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:62:9-66:53
+77            android:name="application.haveri.tourism.ui.activity.about.AboutActivity"
+77-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:63:13-60
+78            android:configChanges="orientation|keyboardHidden|screenSize"
+78-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:65:13-74
+79            android:screenOrientation="portrait"
+79-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:64:13-49
+80            android:theme="@style/FullscreenTheme" />
+80-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:66:13-51
+81
+82        <meta-data
+82-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:68:9-70:54
+83            android:name="com.google.android.gms.ads.APPLICATION_ID"
+83-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:69:13-69
+84            android:value="@string/ADD_MOB_APP_ID" />
+84-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:70:13-51
+85        <meta-data
+85-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:71:9-73:58
+86            android:name="com.google.android.geo.API_KEY"
+86-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:72:13-58
+87            android:value="@string/GOOGLE_MAP_API_KEY" />
+87-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:73:13-55
+88
+89        <service
+89-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:75:9-81:19
+90            android:name="application.haveri.tourism.notifications.AppFirebaseMessagingService"
+90-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:76:13-70
+91            android:exported="false" >
+91-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:77:13-37
+92            <intent-filter>
+92-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:78:13-80:29
+93                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+93-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:79:17-77
+93-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:79:25-75
+94            </intent-filter>
+95        </service>
+96
+97        <provider
+97-->[com.amitshekhar.android:debug-db:1.0.6] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\285b57db3e278211b6af89c8b655c41c\debug-db-1.0.6\AndroidManifest.xml:12:9-16:40
+98            android:name="com.amitshekhar.debug.DebugDBInitProvider"
+98-->[com.amitshekhar.android:debug-db:1.0.6] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\285b57db3e278211b6af89c8b655c41c\debug-db-1.0.6\AndroidManifest.xml:13:13-69
+99            android:authorities="application.haveri.tourism.debug.DebugDBInitProvider"
+99-->[com.amitshekhar.android:debug-db:1.0.6] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\285b57db3e278211b6af89c8b655c41c\debug-db-1.0.6\AndroidManifest.xml:14:13-71
+100            android:enabled="true"
+100-->[com.amitshekhar.android:debug-db:1.0.6] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\285b57db3e278211b6af89c8b655c41c\debug-db-1.0.6\AndroidManifest.xml:15:13-35
+101            android:exported="false" />
+101-->[com.amitshekhar.android:debug-db:1.0.6] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\285b57db3e278211b6af89c8b655c41c\debug-db-1.0.6\AndroidManifest.xml:16:13-37
+102        <provider
+102-->[com.amitshekhar.android:debug-db-encrypt:1.0.6] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\b3be057c9a3f0b995e11760f9d6b1f10\debug-db-encrypt-1.0.6\AndroidManifest.xml:12:9-16:40
+103            android:name="com.amitshekhar.debug.encrypt.DebugDBEncryptInitProvider"
+103-->[com.amitshekhar.android:debug-db-encrypt:1.0.6] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\b3be057c9a3f0b995e11760f9d6b1f10\debug-db-encrypt-1.0.6\AndroidManifest.xml:13:13-84
+104            android:authorities="application.haveri.tourism.debug.DebugDBEncryptInitProvider"
+104-->[com.amitshekhar.android:debug-db-encrypt:1.0.6] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\b3be057c9a3f0b995e11760f9d6b1f10\debug-db-encrypt-1.0.6\AndroidManifest.xml:14:13-78
+105            android:enabled="true"
+105-->[com.amitshekhar.android:debug-db-encrypt:1.0.6] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\b3be057c9a3f0b995e11760f9d6b1f10\debug-db-encrypt-1.0.6\AndroidManifest.xml:15:13-35
+106            android:exported="false" />
+106-->[com.amitshekhar.android:debug-db-encrypt:1.0.6] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\b3be057c9a3f0b995e11760f9d6b1f10\debug-db-encrypt-1.0.6\AndroidManifest.xml:16:13-37
+107
+108        <service
+108-->[com.google.firebase:firebase-crashlytics:17.0.0-beta03] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\0ccbeab84180a9f9d5356567a22fdc4f\firebase-crashlytics-17.0.0-beta03\AndroidManifest.xml:13:9-19:19
+109            android:name="com.google.firebase.components.ComponentDiscoveryService"
+109-->[com.google.firebase:firebase-crashlytics:17.0.0-beta03] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\0ccbeab84180a9f9d5356567a22fdc4f\firebase-crashlytics-17.0.0-beta03\AndroidManifest.xml:14:13-84
+110            android:directBootAware="true"
+110-->[com.google.firebase:firebase-common:19.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\439edbadf77350e56a87abc5f26054fa\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+111            android:exported="false" >
+111-->[com.google.firebase:firebase-crashlytics:17.0.0-beta03] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\0ccbeab84180a9f9d5356567a22fdc4f\firebase-crashlytics-17.0.0-beta03\AndroidManifest.xml:15:13-37
+112            <meta-data
+112-->[com.google.firebase:firebase-crashlytics:17.0.0-beta03] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\0ccbeab84180a9f9d5356567a22fdc4f\firebase-crashlytics-17.0.0-beta03\AndroidManifest.xml:16:13-18:85
+113                android:name="com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar"
+113-->[com.google.firebase:firebase-crashlytics:17.0.0-beta03] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\0ccbeab84180a9f9d5356567a22fdc4f\firebase-crashlytics-17.0.0-beta03\AndroidManifest.xml:17:17-115
+114                android:value="com.google.firebase.components.ComponentRegistrar" />
+114-->[com.google.firebase:firebase-crashlytics:17.0.0-beta03] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\0ccbeab84180a9f9d5356567a22fdc4f\firebase-crashlytics-17.0.0-beta03\AndroidManifest.xml:18:17-82
+115            <meta-data
+115-->[com.google.firebase:firebase-messaging:20.1.5] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\cb7e721f6167f08fd1b1fcf79122a03f\jetified-firebase-messaging-20.1.5\AndroidManifest.xml:38:13-40:85
+116                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+116-->[com.google.firebase:firebase-messaging:20.1.5] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\cb7e721f6167f08fd1b1fcf79122a03f\jetified-firebase-messaging-20.1.5\AndroidManifest.xml:39:17-119
+117                android:value="com.google.firebase.components.ComponentRegistrar" />
+117-->[com.google.firebase:firebase-messaging:20.1.5] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\cb7e721f6167f08fd1b1fcf79122a03f\jetified-firebase-messaging-20.1.5\AndroidManifest.xml:40:17-82
+118            <meta-data
+118-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\b9308e07dd40327fadd680d6a2ff1f84\firebase-datatransport-17.0.3\AndroidManifest.xml:28:13-30:85
+119                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+119-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\b9308e07dd40327fadd680d6a2ff1f84\firebase-datatransport-17.0.3\AndroidManifest.xml:29:17-115
+120                android:value="com.google.firebase.components.ComponentRegistrar" />
+120-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\b9308e07dd40327fadd680d6a2ff1f84\firebase-datatransport-17.0.3\AndroidManifest.xml:30:17-82
+121            <meta-data
+121-->[com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\d2bba190c24323a4230301b9712b1326\play-services-measurement-api-17.3.0\AndroidManifest.xml:30:13-32:85
+122                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+122-->[com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\d2bba190c24323a4230301b9712b1326\play-services-measurement-api-17.3.0\AndroidManifest.xml:31:17-139
+123                android:value="com.google.firebase.components.ComponentRegistrar" />
+123-->[com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\d2bba190c24323a4230301b9712b1326\play-services-measurement-api-17.3.0\AndroidManifest.xml:32:17-82
+124            <meta-data
+124-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\04c07b43851a5569375de3bf46bd8e25\firebase-iid-20.1.5\AndroidManifest.xml:32:13-34:85
+125                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+125-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\04c07b43851a5569375de3bf46bd8e25\firebase-iid-20.1.5\AndroidManifest.xml:33:17-96
+126                android:value="com.google.firebase.components.ComponentRegistrar" />
+126-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\04c07b43851a5569375de3bf46bd8e25\firebase-iid-20.1.5\AndroidManifest.xml:34:17-82
+127            <meta-data
+127-->[com.google.firebase:firebase-installations:16.2.1] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\d7db16d6de2f7fc967d50683017589c5\firebase-installations-16.2.1\AndroidManifest.xml:17:13-19:85
+128                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+128-->[com.google.firebase:firebase-installations:16.2.1] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\d7db16d6de2f7fc967d50683017589c5\firebase-installations-16.2.1\AndroidManifest.xml:18:17-127
+129                android:value="com.google.firebase.components.ComponentRegistrar" />
+129-->[com.google.firebase:firebase-installations:16.2.1] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\d7db16d6de2f7fc967d50683017589c5\firebase-installations-16.2.1\AndroidManifest.xml:19:17-82
+130        </service>
+131        <!--
+132             FirebaseMessagingService performs security checks at runtime,
+133             but set to not exported to explicitly avoid allowing another app to call it.
+134        -->
+135        <service
+135-->[com.google.firebase:firebase-messaging:20.1.5] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\cb7e721f6167f08fd1b1fcf79122a03f\jetified-firebase-messaging-20.1.5\AndroidManifest.xml:28:9-34:19
+136            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+136-->[com.google.firebase:firebase-messaging:20.1.5] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\cb7e721f6167f08fd1b1fcf79122a03f\jetified-firebase-messaging-20.1.5\AndroidManifest.xml:29:13-82
+137            android:exported="false" >
+137-->[com.google.firebase:firebase-messaging:20.1.5] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\cb7e721f6167f08fd1b1fcf79122a03f\jetified-firebase-messaging-20.1.5\AndroidManifest.xml:30:13-37
+138            <intent-filter android:priority="-500" >
+138-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:78:13-80:29
+139                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+139-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:79:17-77
+139-->G:\WorkSpace\AppHaveri\HvtApp\HvtApp\app\src\main\AndroidManifest.xml:79:25-75
+140            </intent-filter>
+141        </service>
+142        <service
+142-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\c31c2422d26617014cd11c4f1f73fa49\transport-backend-cct-2.2.0\AndroidManifest.xml:29:9-35:19
+143            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+143-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\c31c2422d26617014cd11c4f1f73fa49\transport-backend-cct-2.2.0\AndroidManifest.xml:30:13-103
+144            android:exported="false" >
+144-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\c31c2422d26617014cd11c4f1f73fa49\transport-backend-cct-2.2.0\AndroidManifest.xml:31:13-37
+145            <meta-data
+145-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\c31c2422d26617014cd11c4f1f73fa49\transport-backend-cct-2.2.0\AndroidManifest.xml:32:13-34:39
+146                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+146-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\c31c2422d26617014cd11c4f1f73fa49\transport-backend-cct-2.2.0\AndroidManifest.xml:33:17-94
+147                android:value="cct" />
+147-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\c31c2422d26617014cd11c4f1f73fa49\transport-backend-cct-2.2.0\AndroidManifest.xml:34:17-36
+148        </service>
+149        <service
+149-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\178d358aca49f2279eeecb6a33aff8eb\transport-runtime-2.2.0\AndroidManifest.xml:26:9-30:19
+150            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+150-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\178d358aca49f2279eeecb6a33aff8eb\transport-runtime-2.2.0\AndroidManifest.xml:27:13-117
+151            android:exported="false"
+151-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\178d358aca49f2279eeecb6a33aff8eb\transport-runtime-2.2.0\AndroidManifest.xml:28:13-37
+152            android:permission="android.permission.BIND_JOB_SERVICE" >
+152-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\178d358aca49f2279eeecb6a33aff8eb\transport-runtime-2.2.0\AndroidManifest.xml:29:13-69
+153        </service>
+154
+155        <receiver
+155-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\178d358aca49f2279eeecb6a33aff8eb\transport-runtime-2.2.0\AndroidManifest.xml:32:9-34:40
+156            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+156-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\178d358aca49f2279eeecb6a33aff8eb\transport-runtime-2.2.0\AndroidManifest.xml:33:13-132
+157            android:exported="false" /> <!-- Needs to be explicitly declared on P+ -->
+157-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\178d358aca49f2279eeecb6a33aff8eb\transport-runtime-2.2.0\AndroidManifest.xml:34:13-37
+158        <uses-library
+158-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\abf5870384a73905f4a293be1b4015b4\play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+159            android:name="org.apache.http.legacy"
+159-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\abf5870384a73905f4a293be1b4015b4\play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+160            android:required="false" />
+160-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\abf5870384a73905f4a293be1b4015b4\play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+161
+162        <receiver
+162-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:29:9-33:20
+163            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+163-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:30:13-85
+164            android:enabled="true"
+164-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:31:13-35
+165            android:exported="false" >
+165-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:32:13-37
+166        </receiver>
+167        <receiver
+167-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:34:9-42:20
+168            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+168-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:35:13-100
+169            android:enabled="true"
+169-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:36:13-35
+170            android:exported="true"
+170-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:37:13-36
+171            android:permission="android.permission.INSTALL_PACKAGES" >
+171-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:38:13-69
+172            <intent-filter>
+172-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:39:13-41:29
+173                <action android:name="com.android.vending.INSTALL_REFERRER" />
+173-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:40:17-79
+173-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:40:25-76
+174            </intent-filter>
+175        </receiver>
+176
+177        <service
+177-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:44:9-47:40
+178            android:name="com.google.android.gms.measurement.AppMeasurementService"
+178-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:45:13-84
+179            android:enabled="true"
+179-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:46:13-35
+180            android:exported="false" />
+180-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:47:13-37
+181        <service
+181-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:48:9-52:72
+182            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+182-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:49:13-87
+183            android:enabled="true"
+183-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:50:13-35
+184            android:exported="false"
+184-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:51:13-37
+185            android:permission="android.permission.BIND_JOB_SERVICE" />
+185-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\e063c36ffc157fb731d982f45da4b244\play-services-measurement-17.3.0\AndroidManifest.xml:52:13-69
+186
+187        <receiver
+187-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\04c07b43851a5569375de3bf46bd8e25\firebase-iid-20.1.5\AndroidManifest.xml:37:9-44:20
+188            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+188-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\04c07b43851a5569375de3bf46bd8e25\firebase-iid-20.1.5\AndroidManifest.xml:38:13-78
+189            android:exported="true"
+189-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\04c07b43851a5569375de3bf46bd8e25\firebase-iid-20.1.5\AndroidManifest.xml:39:13-36
+190            android:permission="com.google.android.c2dm.permission.SEND" >
+190-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\04c07b43851a5569375de3bf46bd8e25\firebase-iid-20.1.5\AndroidManifest.xml:40:13-73
+191            <intent-filter>
+191-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\04c07b43851a5569375de3bf46bd8e25\firebase-iid-20.1.5\AndroidManifest.xml:41:13-43:29
+192                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+192-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\04c07b43851a5569375de3bf46bd8e25\firebase-iid-20.1.5\AndroidManifest.xml:42:17-81
+192-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\04c07b43851a5569375de3bf46bd8e25\firebase-iid-20.1.5\AndroidManifest.xml:42:25-78
+193            </intent-filter>
+194        </receiver>
+195
+196        <activity
+196-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\1af79ffc87d67b2344702ec7e24a4997\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+197            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+197-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\1af79ffc87d67b2344702ec7e24a4997\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+198            android:exported="false"
+198-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\1af79ffc87d67b2344702ec7e24a4997\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+199            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+199-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\1af79ffc87d67b2344702ec7e24a4997\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+200
+201        <provider
+201-->[com.google.firebase:firebase-common:19.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\439edbadf77350e56a87abc5f26054fa\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+202            android:name="com.google.firebase.provider.FirebaseInitProvider"
+202-->[com.google.firebase:firebase-common:19.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\439edbadf77350e56a87abc5f26054fa\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+203            android:authorities="application.haveri.tourism.debug.firebaseinitprovider"
+203-->[com.google.firebase:firebase-common:19.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\439edbadf77350e56a87abc5f26054fa\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+204            android:exported="false"
+204-->[com.google.firebase:firebase-common:19.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\439edbadf77350e56a87abc5f26054fa\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+205            android:initOrder="100" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+205-->[com.google.firebase:firebase-common:19.3.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\439edbadf77350e56a87abc5f26054fa\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+206        <activity
+206-->[com.google.android.gms:play-services-ads-lite:19.0.1] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\9be8a72cadeee6b326745f7b20ef5558\play-services-ads-lite-19.0.1\AndroidManifest.xml:29:9-33:64
+207            android:name="com.google.android.gms.ads.AdActivity"
+207-->[com.google.android.gms:play-services-ads-lite:19.0.1] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\9be8a72cadeee6b326745f7b20ef5558\play-services-ads-lite-19.0.1\AndroidManifest.xml:30:13-65
+208            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+208-->[com.google.android.gms:play-services-ads-lite:19.0.1] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\9be8a72cadeee6b326745f7b20ef5558\play-services-ads-lite-19.0.1\AndroidManifest.xml:31:13-122
+209            android:exported="false"
+209-->[com.google.android.gms:play-services-ads-lite:19.0.1] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\9be8a72cadeee6b326745f7b20ef5558\play-services-ads-lite-19.0.1\AndroidManifest.xml:32:13-37
+210            android:theme="@android:style/Theme.Translucent" />
+210-->[com.google.android.gms:play-services-ads-lite:19.0.1] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\9be8a72cadeee6b326745f7b20ef5558\play-services-ads-lite-19.0.1\AndroidManifest.xml:33:13-61
+211
+212        <provider
+212-->[com.google.android.gms:play-services-ads-lite:19.0.1] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\9be8a72cadeee6b326745f7b20ef5558\play-services-ads-lite-19.0.1\AndroidManifest.xml:35:9-39:39
+213            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
+213-->[com.google.android.gms:play-services-ads-lite:19.0.1] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\9be8a72cadeee6b326745f7b20ef5558\play-services-ads-lite-19.0.1\AndroidManifest.xml:36:13-76
+214            android:authorities="application.haveri.tourism.debug.mobileadsinitprovider"
+214-->[com.google.android.gms:play-services-ads-lite:19.0.1] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\9be8a72cadeee6b326745f7b20ef5558\play-services-ads-lite-19.0.1\AndroidManifest.xml:37:13-73
+215            android:exported="false"
+215-->[com.google.android.gms:play-services-ads-lite:19.0.1] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\9be8a72cadeee6b326745f7b20ef5558\play-services-ads-lite-19.0.1\AndroidManifest.xml:38:13-37
+216            android:initOrder="100" />
+216-->[com.google.android.gms:play-services-ads-lite:19.0.1] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\9be8a72cadeee6b326745f7b20ef5558\play-services-ads-lite-19.0.1\AndroidManifest.xml:39:13-36
+217
+218        <meta-data
+218-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\28ea4f3922d9613736db38fb733f8413\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+219            android:name="com.google.android.gms.version"
+219-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\28ea4f3922d9613736db38fb733f8413\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+220            android:value="@integer/google_play_services_version" />
+220-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\28ea4f3922d9613736db38fb733f8413\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+221
+222        <provider
+222-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\fcfbcc8793511878d975856b139eadc2\lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+223            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+223-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\fcfbcc8793511878d975856b139eadc2\lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+224            android:authorities="application.haveri.tourism.debug.lifecycle-process"
+224-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\fcfbcc8793511878d975856b139eadc2\lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+225            android:exported="false"
+225-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\fcfbcc8793511878d975856b139eadc2\lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+226            android:multiprocess="true" />
+226-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\fcfbcc8793511878d975856b139eadc2\lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+227
+228        <service
+228-->[androidx.room:room-runtime:2.2.5] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\9b470de51918ddbb59a38f22e3f4a428\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+229            android:name="androidx.room.MultiInstanceInvalidationService"
+229-->[androidx.room:room-runtime:2.2.5] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\9b470de51918ddbb59a38f22e3f4a428\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+230            android:directBootAware="true"
+230-->[androidx.room:room-runtime:2.2.5] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\9b470de51918ddbb59a38f22e3f4a428\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+231            android:exported="false" />
+231-->[androidx.room:room-runtime:2.2.5] C:\Users\satish\.gradle\caches\transforms-2\files-2.1\9b470de51918ddbb59a38f22e3f4a428\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+232    </application>
+233
+234</manifest>

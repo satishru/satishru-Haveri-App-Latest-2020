@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Study\\HVR\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+            "outputFile": "G:\\WorkSpace\\AppHaveri\\HvtApp\\HvtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ce992\\.gradle\\caches\\transforms-2\\files-2.1\\b9abeb939037774d13eb7e135b61d913\\appcompat-1.1.0\\res\\values-v18\\values-v18.xml",
+                    "source": "C:\\Users\\satish\\.gradle\\caches\\transforms-2\\files-2.1\\b9abeb939037774d13eb7e135b61d913\\appcompat-1.1.0\\res\\values-v18\\values-v18.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
